@@ -1,0 +1,8 @@
+////////////////////////////////////////////////
+// Copyright Airbus Defence and Space (c), 2016
+////////////////////////////////////////////////
+package com.example.demo;
+
+
+public class FirstRootTest extends DemoApplicationTests {
+}
